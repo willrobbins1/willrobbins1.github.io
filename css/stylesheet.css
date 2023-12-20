@@ -1,0 +1,112 @@
+
+body{
+    background-color: #B5D4EC;
+    font-family: 'Times New Roman', Times, serif;
+}
+.recipe_whole{
+    background-color: #E4F1FB;
+    border-left: white 5px dashed;
+    border-right: white 5px dashed;
+}
+.recipe_top{
+    border-top: white 5px dashed;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.recipe_bottom{
+    border-bottom: white 5px dashed;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+img{
+    border: white dashed 5px;
+    border-radius: 20px;
+}
+video{ border: white dashed 5px;
+    border-radius: 20px;
+    height: 175px;
+    width:fit-content;
+}
+.history{
+    background-color: #E4F1FB;
+    border: white dashed 5px;
+    border-radius: 20px;
+}
+.recipe_image{
+    width: 300px;
+}
+.navbarcolor{
+    background-color:#84B0D2;
+}
+.headerwords{
+    position: relative;
+    top: 100px;
+    left: 90%;
+    color: whitesmoke;
+}
+.headerimage{
+    position: relative;
+    left: -12px;
+    width: 1075px
+}
+.divcol4{
+    border: white dashed 5px;
+    margin: 5px;
+    background-color: #E4F1FB;
+    border-radius: 20px;
+    width:365px;
+    position: relative;
+    left: -5px;
+}
+#text_homepage{
+    position: relative;
+    top: 500px;
+    right: 150px
+    
+}
+#image_homepage{
+    object-fit: cover;
+}
+.dropdowncolor{
+    background-color: #E4F1FB;
+    border-radius: 20px;
+    border: white 5px dashed;
+}
+.alltxt{
+    border: white 5px dashed;
+    border-radius: 20px;
+    background-color: #E4F1FB;
+}
+.divcol6{
+    margin: 5px;
+    width: 560px
+}.hobbiesimg{
+    position: relative;
+    left: -10px;
+    width: 560px;
+    height: 380px;
+    margin: 5px;
+}
+#nobtn{
+    font-style: normal;
+    color:black;
+}
+.img_wood{
+    transform: rotate(-90deg);
+    position: relative;
+    left: 280px;
+}
+.woodfix{
+    margin: 5px;
+    position: relative;
+    left: 200px;
+}
+footer{
+    background-color: #84B0D2;
+    border: white 5px dashed;
+    border-radius: 10px;
+}
+.computerimg{
+    position:relative;
+    left:25%;
+}
